@@ -2,7 +2,7 @@
 
 this is a simple java server for reddit app
 
-File Structure
+@File Structure
 - ClientTest.java: Main class to run the Reddit app.
 - Community.java: Class representing a community in Reddit.
 - DataBase.java: Local database storage class.
