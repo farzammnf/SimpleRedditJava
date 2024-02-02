@@ -1,6 +1,22 @@
 # SimpleRedditJava
 
 This is a simple java server for reddit app.
+# SimpleReddit
+
+## Overview
+
+SimpleReddit is an advanced programming project that consists of a Backend API emulating the functionalities of a social platform like Reddit. In its second phase, a Flutter application was developed to serve as the front end, providing users with an engaging and familiar Reddit-like experience.
+
+## Backend API
+
+The backend API manages various features, such as user authentication, community creation and ... It replicates the core functionalities of a social platform like Reddit.
+
+## Project Structure
+
+The repository contains back-end files.
+
+- **BackendAPI:** Contains the code for the backend API.
+
 
 This project was part of an advanced programming lesson with
 `Dr. Mojtaba Vahidi-Asl`.
