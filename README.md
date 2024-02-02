@@ -2,7 +2,7 @@
 
 This is a simple java server for reddit app.
 
-this project was part of an advanced programming lesson with
+This project was part of an advanced programming lesson with
 `Dr. Mojtaba Vahidi-Asl`.
 
 ## File Structure
